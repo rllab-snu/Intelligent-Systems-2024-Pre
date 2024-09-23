@@ -15,7 +15,7 @@ We recommend installing this package inside a virtual environment such as [Anaco
 conda create -n rccar python=3.8
 conda activate rccar
 
-git clone https://github.com/gunpokal2/IS2024_ws.git
+git clone https://github.com/rllab-snu/Intelligent-Systems-2024-Pre.git
 cd IS2024_ws/rccar_gym
 pip install -e .
 ```
